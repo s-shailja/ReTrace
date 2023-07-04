@@ -10,12 +10,23 @@ ReTrace is designed as a tool for evaluation and validation of tractography meth
 
 The method is presented in our paper submitted to the Conference on Diffusion MRI (CDMRI) 2023. The pre-print version of the paper is now available and can be accessed [here](https://biorxiv.org/cgi/content/short/2023.07.03.547451v1).
 
-## How to Use
-There are two important files to begin with:
+## Usage
 
-Visualization_SCP_left_ISMRM.ipynb: For qualitative evaluation
-DistanceBetweenTwoBundles.py: For quantitative evaluation
-_Coming soon..._
+Here's how to get started:
+
+1. Navigate to the project directory.
+
+```bash
+cd /path/to/project
+```
+
+2. The project primarily consists of the following files:
+
+    - `Visualization_SCP_left_ISMRM.ipynb`: This Jupyter notebook is used for qualitative evaluation of the project. It contains all the necessary code, explanations and visualizations needed to understand and evaluate the project qualitatively.
+
+    - `DistanceBetweenTwoBundles.py`: This Python script is used for quantitative evaluation of the project. It contains the necessary code to compute and report various metrics that help in assessing the project quantitatively.
+
+More files and functionalities are coming soon, so stay tuned!
 
 ## License
 
