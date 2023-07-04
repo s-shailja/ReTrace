@@ -2,6 +2,10 @@
 
 This repository contains the code for the implementation of ReTrace, a tractography evaluation and validation method. 
 
+![Pipeline Overview](pipeline.svg)
+
+This figure illustrates the general pipeline of our project.
+
 ## About
 
 ReTrace is designed as a tool for evaluation and validation of tractography methods to provide topological insight and to guide future development in this field. 
