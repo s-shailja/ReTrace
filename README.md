@@ -11,7 +11,10 @@ ReTrace is designed as a tool for evaluation and validation of tractography meth
 The method is presented in our paper submitted to the Conference on Diffusion MRI (CDMRI) 2023. The pre-print version of the paper is now available and can be accessed [here](https://biorxiv.org/cgi/content/short/2023.07.03.547451v1).
 
 ## How to Use
+There are two important files to begin with:
 
+Visualization_SCP_left_ISMRM.ipynb: For qualitative evaluation
+DistanceBetweenTwoBundles.py: For quantitative evaluation
 _Coming soon..._
 
 ## License
