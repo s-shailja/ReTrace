@@ -14,6 +14,7 @@ ReTrace is designed as a tool for evaluation and validation of tractography meth
 
 The method is presented in our paper submitted to the Conference on Diffusion MRI (CDMRI) 2023. The pre-print version of the paper is now available and can be accessed [here](https://biorxiv.org/cgi/content/short/2023.07.03.547451v1).
 
+
 ## Usage
 
 Here's how to get started:
@@ -32,12 +33,11 @@ cd /path/to/project
 
 More files and functionalities are coming soon, so stay tuned!
 
+## Dataset
+
+The code was tested on the publicly available [ISMRM dataset](https://doi.org/10.5281/zenodo.572345).
+
 ## License
 
-_Coming soon..._
+ReTrace is released under the UCSB license. Please see the [LICENSE](https://github.com/s-shailja/ReTrace/blob/main/LICENSE) file for more information.
 
-## Contact 
-
-_Coming soon..._
-
-_**Note:** As the repository is in development, we will continue to update the README with information about usage, contributing guidelines, license information, and contact information._
